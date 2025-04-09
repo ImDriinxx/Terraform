@@ -1,0 +1,10 @@
+export OS_AUTH_URL=https://api.pub1.infomaniak.cloud/identity/v3
+export OS_USERNAME=PCU-ON33OMZ
+export OS_PASSWORD="Azerty1234+"
+export OS_PROJECT_NAME=PCP-ON33OMZ
+export OS_PROJECT_ID=1bf7a18e3d484860850f1e811a01866c
+export OS_REGION_NAME=dc3-a
+export OS_INTERFACE=public
+export OS_USER_DOMAIN_NAME=Default
+export OS_PROJECT_DOMAIN_NAME=Default
+export OS_IDENTITY_API_VERSION=3
